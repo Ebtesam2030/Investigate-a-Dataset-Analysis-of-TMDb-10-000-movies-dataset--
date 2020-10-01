@@ -1,2 +1,2 @@
-# Investigate-a-Dataset-Analysis-of-TMDb-10-000-movies-dataset--
+# Investigate-a-Dataset-Analysis-of-TMDb-10-000-movies-dataset here-
 I choose the TMDb movie data set for data analysis. This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including :     user ratings ,The budjet and revenue of The Movies, release year,production companies ,The movies names, directors and Cast     I would like to find other intresting patterns in this dataset     using paython packges pandas , numpy , seaborn , matplotlib in this analysis
